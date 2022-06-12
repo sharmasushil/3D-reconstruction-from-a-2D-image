@@ -7,7 +7,7 @@
 To begin, we'll use a square box with four distinct colors to better understand how IPM works. After using IPM, or the pixel value equation of an image (u, v), we'll be able to build a top view of the image.
 In other words, the BEV image I′ is created by warping each point in I′ onto I using the inverse mapping G1, and then interpolating local pixel intensity in the origin image I to determine the image's intensity. The figure depicted with camera roll angle of 40 and pitch angle of 20 as we addressed the behavior of IPM to build a top view, however the created bird eye is in gray scale property.
 
-<img src="https://user-images.githubusercontent.com/70905483/173233004-f1a45ac2-1ad3-4f92-a718-e700dd8106e8.PNG" alt="drawing" width="100"/>
+<img src="https://user-images.githubusercontent.com/70905483/173233004-f1a45ac2-1ad3-4f92-a718-e700dd8106e8.PNG" alt="drawing" width="500"/>
 
 
 ### 2. Bird Eye View/ Top View Concept 
