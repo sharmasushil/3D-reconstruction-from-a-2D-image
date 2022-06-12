@@ -18,6 +18,10 @@ As shown in the diagram, if you want to use BEV technique (top view), the algori
 ![IPM](https://user-images.githubusercontent.com/70905483/173233013-d263d0e5-3f24-45b5-a57f-43cc11cc41f3.PNG)
 
 
+
+<img src="https://user-images.githubusercontent.com/70905483/173233013-d263d0e5-3f24-45b5-a57f-43cc11cc41f3.PNG" alt="drawing" width="700"/>
+
+
 ### 3. Region of Interset (ROI Concept)
 
 More information about the figure can be found in the diagram (ROI). We specify the ROI, which is the green portion covered by the virtual camera from top view, as Xmin = 0, Xmax = 20, Ymin = 15, Ymax = 15. As you can see, we have two cameras, a real and a virtual camera. In its most basic form, a region of interest (ROI) is a part of an image that you want to filter or manipulate in some way.
