@@ -24,6 +24,4 @@ More information about the figure can be found in the diagram (ROI). We specify 
 
 ![visualroi](https://user-images.githubusercontent.com/70905483/173233034-9d25234b-fde8-42be-9b0e-b87201b1cd7f.PNG)
 
-
-
-	:warning: Please see a short report file for further information on the mathematical modeling concept.
+⚠️ Please see a short report file for further information on the mathematical modeling concept.
