@@ -9,7 +9,7 @@ In other words, the BEV image I′ is created by warping each point in I′ onto
 
 ![main](https://user-images.githubusercontent.com/70905483/173233004-f1a45ac2-1ad3-4f92-a718-e700dd8106e8.PNG )
 
-<img src="main.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/70905483/173233004-f1a45ac2-1ad3-4f92-a718-e700dd8106e8.PNG" alt="drawing" width="200"/>
 
 
 ### 2. Bird Eye View/ Top View Concept 
